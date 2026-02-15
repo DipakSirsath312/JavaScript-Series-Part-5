@@ -18,3 +18,8 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part 
 3. creating_a_Post
 4. get_Values
 5. conversation_in_Get_Values
+6. add_Update_Values
+7. nested Objects
+8. array Of Objects
+9. math_Objects
+10. random_Integers
