@@ -23,3 +23,9 @@ This Repository all Content and Basic to Advance Concept JavaScript Series Part 
 8. array Of Objects
 9. math_Objects
 10. random_Integers
+11. Practice1_QS
+12. guessing_Game
+13. practice2_Qs
+14. practice3_Qs
+15. practice4_Qs
+16. index.html
